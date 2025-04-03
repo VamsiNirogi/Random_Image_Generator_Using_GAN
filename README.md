@@ -6,7 +6,7 @@ This project implements a GAN to generate realistic 64x64 pixel images. The mode
 
 # Installation
 1.Install required dependencies: pip install torch torchvision numpy matplotlib pillow
-2. Clone the repository:
+2. Clone the repository: https://github.com/VamsiNirogi/Random_Image_Generator_Using_GAN/tree/main
 
 # Dataset
 The project requires a dataset of images for training. Get data from Kaggle
