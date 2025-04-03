@@ -5,17 +5,17 @@ This project implements a Generative Adversarial Network (GAN) using PyTorch to 
 This project implements a GAN to generate realistic 64x64 pixel images. The model consists of a generator that synthesizes images from random noise and a discriminator that differentiates between real and generated images.
 
 # Installation
-1.Install required dependencies: pip install torch torchvision numpy matplotlib pillow 
+1.Install required dependencies: "pip install torch torchvision numpy matplotlib pillow" 
 
 2.Clone the repository: https://github.com/VamsiNirogi/Random_Image_Generator_Using_GAN/tree/main
 
 # Dataset
 The project requires a dataset of images for training. Get data from Kaggle
 
-Update the text_file and image_data_dir variables in the script to point to your dataset.
+Update the "text_file" and "image_data_dir" variables in the script to point to your dataset.
 
 # Usage
-1.Run the training script: python train.py
+1.Run the training script: "python train.py"
 
 2.Generated images will be saved periodically during training.
 
